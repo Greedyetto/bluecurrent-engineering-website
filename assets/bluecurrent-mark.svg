@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 34" role="img" aria-labelledby="title">
+  <title id="title">BlueCurrent Engineering</title>
+  <defs>
+    <linearGradient id="bluecurrent-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#80e4e5"/>
+      <stop offset="100%" stop-color="#17b7bf"/>
+    </linearGradient>
+  </defs>
+  <path d="M 3.912,7 H 30 Q 32,7 32,9 L 29.088,13 Q 29.088,15 27.088,15 H 1 Q -1,15 -1,13 L 1.912,9 Q 1.912,7 3.912,7 Z" fill="url(#bluecurrent-gradient)"/>
+  <path d="M 7.912,19 H 33 Q 35,19 35,21 L 32.088,25 Q 32.088,27 30.088,27 H 5 Q 3,27 3,25 L 5.912,21 Q 5.912,19 7.912,19 Z" fill="url(#bluecurrent-gradient)"/>
+</svg>
