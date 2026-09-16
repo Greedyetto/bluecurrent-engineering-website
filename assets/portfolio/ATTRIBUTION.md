@@ -8,3 +8,10 @@
 - Source: https://commons.wikimedia.org/wiki/File:Bibby_WaveMaster_Horizon_verl%C3%A4sst_die_Gro%C3%9Fe_Seeschleuse_Emden.jpg
 - License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
 - Changes: resized Wikimedia preview and recompressed as a web-ready JPEG; no content alterations.
+
+## Inai Kenanga
+
+- File: `inai-kenanga.jpg`
+- Source: Edwin Profijt project archive (`IMG_3536.JPG`)
+- Copyright: © Edwin Profijt
+- Changes: resized and recompressed as a web-ready JPEG; no content alterations.
