@@ -15,3 +15,9 @@
 - Source: Edwin Profijt project archive (`IMG_3536.JPG`)
 - Copyright: © Edwin Profijt
 - Changes: resized and recompressed as a web-ready JPEG; no content alterations.
+
+## BlueCurrent concept interfaces
+
+- Files: `spreader-predictive-maintenance.webp`, `lt-cooling-water-monitoring.webp`
+- Source: concept interfaces developed for BlueCurrent Engineering.
+- Changes: resized and converted to web-ready WebP files; no content alterations.
